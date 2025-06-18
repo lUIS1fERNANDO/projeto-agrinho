@@ -14,7 +14,7 @@ esse site é para o projeto agrinho que tem como tema em conjunto com a tecnolog
 - Index.html: Página principal com os conteudos e seçoes.
 - style.css: Estilo visual com cores,fontes e layout.
 
-# estrutura e conteudo 
+# estrutura e conteúdo 
   cabeçalho
 
 - titulo: tecnologia com o subtitulo "festejando conexão campo e cidade".
@@ -27,9 +27,13 @@ esse site é para o projeto agrinho que tem como tema em conjunto com a tecnolog
 -sobre nós 
 -serviços
 -contato
+# Rodapé
+
+-Email
+-direitos de uso
 
 # licença
 
-Este projeto está licenciado sob a MIT license, permitindo uso, modificação e distribuição livre, com os devidos creditos.  
+Este projeto está licenciado sob a MIT license, permitindo uso, modificação e distribuição livre, com os devidos créditos.  
 
 
